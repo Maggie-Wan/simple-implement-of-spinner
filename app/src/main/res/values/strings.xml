@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ex1</string>
+    <string-array name="x2">
+        <item>教育</item>
+        <item>金融</item>
+        <item>服務</item>
+    </string-array>
+</resources>
